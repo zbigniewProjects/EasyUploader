@@ -1,0 +1,15 @@
+.vs/
+EasyUploader/bin/
+EasyUploader/obj/
+EasyUploader/Properties/
+
+EasyUploader.Contracts/bin/
+EasyUploader.Contracts/obj/
+EasyUploader.Contracts/Properties/
+
+EasyUploaderClient/bin/
+EasyUploaderClient/obj/
+EasyUploaderClient/Properties/
+
+
+
